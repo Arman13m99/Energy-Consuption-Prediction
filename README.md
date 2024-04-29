@@ -1,4 +1,4 @@
-# Multi-Algorithm Machine Learning Project for Hourly Energy Consumption Forecasting
+Machine Learning Project for Hourly Energy Consumption Forecasting
 
 This project focuses on forecasting hourly energy consumption using three different machine learning algorithms: XGBoost, Time Series Splitting, and Feature Engineering. The dataset used in this project is the PJME hourly energy consumption dataset, which contains information about the hourly energy consumption in megawatts (MW) over a certain period.
 
